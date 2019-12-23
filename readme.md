@@ -1,5 +1,21 @@
 # microbit
 
+[micro-bit online](https://www.microbit.org/) .  
+[micro-bit online coding](https://www.microbit.org/code/) .  
+
+## Get started
+
+* Start the online editor .  
+* Create a basic project   
+* Connect your microbit to a USB port .  
+* Press `download` and change the folder to `MICROBIT`
+
+Wait till the `yellow` light on the back on the microbit stops flashing.
+
+Unplug the microbit, press the reset button and make your creation work.
+
+## Finding more things to do
+
 A collection of the commonly used components of the micro:bit runtime with a
 standard configuration, to provide an easy to use interface for programming the micro:bit in C/C++.
 
